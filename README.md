@@ -22,7 +22,6 @@ You need Windows 10 or Windows 11, Momulator, and UE4SS from [this]([https://git
 3. Run the game
 4. Press P then go to Settings -> Content -> and you should see 2 Sliders named Booty and Boobs.
 
-Already have Smokey's updater? You can use that instead. See the [installation guide](docs/INSTALL-SMOKEY.md) for direct downloads, updates, and uninstalling.
 
 ## Updates
 
